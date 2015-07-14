@@ -25,7 +25,7 @@ pip install six==1.9.0
 
 OR 
 ```
-Use the requirments.txt
+pip install -r requirments.txt
 ```
 # Usage
 
