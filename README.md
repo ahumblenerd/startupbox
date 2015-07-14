@@ -1,4 +1,4 @@
-# Image Similarity
+# Image Similarity CLI app
 
 A simple python library to search the similarity between two images.
 
